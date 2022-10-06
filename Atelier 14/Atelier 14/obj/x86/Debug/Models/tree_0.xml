@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14Content\Models\tree.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child>
+        <Name>Sun.001</Name>
+        <Transform>98.74162 -14.9603567 5.1264286 0 11.5911789 90.5172 40.89354 0 -10.7581186 -39.7847252 91.11222 0 -43.8674431 867.2413 582.702637 1</Transform>
+      </Child>
+      <Child>
+        <Name>Sun</Name>
+        <Transform>100 0 0 0 0 67.19818 74.05677 0 0 -74.05677 67.19818 0 0 908.8379 452.249237 1</Transform>
+      </Child>
+      <Child>
+        <Name>Cylinder.002</Name>
+        <Transform>93.42591 0 0 0 0 -1.52210132E-05 -93.42591 0 0 93.42591 -1.52210132E-05 0 0.126188755 673.1369 -0.0332510546 1</Transform>
+      </Child>
+      <Child>
+        <Name>Cylinder.001</Name>
+        <Transform>100 0 0 0 0 -1.62920678E-05 -100 0 0 100 -1.62920678E-05 0 0 665.19635 -1.85219375E-20 1</Transform>
+      </Child>
+      <Child>
+        <Name>Cylinder</Name>
+        <Transform>100 0 0 0 0 -1.62920678E-05 -100 0 0 100 -1.62920678E-05 0 0 665.19635 -1.85219375E-20 1</Transform>
+      </Child>
+      <Child>
+        <Name>Camera</Name>
+        <Transform>-91.79174 20.2144566 -34.1415062 0 19.3600521 97.9286041 5.930626 0 34.63316 -1.16598952 -93.80394 0 1487.67847 56.7566643 543.6227 1</Transform>
+      </Child>
+    </Children>
+  </Asset>
+</XnaContent>

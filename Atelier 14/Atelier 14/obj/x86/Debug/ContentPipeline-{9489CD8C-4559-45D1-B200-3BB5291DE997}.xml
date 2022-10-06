@@ -1,0 +1,2162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\CielÉtoilé.png</Source>
+      <Name>Textures\CielÉtoilé</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\CielÉtoilé.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Dragon.png</Source>
+      <Name>Textures\Dragon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Dragon.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DrapeauQuébec.png</Source>
+      <Name>Textures\DrapeauQuébec</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\DrapeauQuébec.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DémarerPartie2.png</Source>
+      <Name>Textures\DémarerPartie2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\DémarerPartie2.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DémarerPartie2Sélectionner.png</Source>
+      <Name>Textures\DémarerPartie2Sélectionner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\DémarerPartie2Sélectionner.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fond3.jpg</Source>
+      <Name>Textures\Fond3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Fond3.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fond4.jpg</Source>
+      <Name>Textures\Fond4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Fond4.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\QuitterPartie2.png</Source>
+      <Name>Textures\QuitterPartie2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\QuitterPartie2.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\QuitterPartie2Sélectionner.png</Source>
+      <Name>Textures\QuitterPartie2Sélectionner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\QuitterPartie2Sélectionner.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__000.png</Source>
+      <Name>Textures\Ninja\Attack__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__001.png</Source>
+      <Name>Textures\Ninja\Attack__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__002.png</Source>
+      <Name>Textures\Ninja\Attack__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__003.png</Source>
+      <Name>Textures\Ninja\Attack__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__004.png</Source>
+      <Name>Textures\Ninja\Attack__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__005.png</Source>
+      <Name>Textures\Ninja\Attack__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__006.png</Source>
+      <Name>Textures\Ninja\Attack__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__007.png</Source>
+      <Name>Textures\Ninja\Attack__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__008.png</Source>
+      <Name>Textures\Ninja\Attack__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Attack__009.png</Source>
+      <Name>Textures\Ninja\Attack__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Attack__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_000.png</Source>
+      <Name>Textures\Ninja\Climb_000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_001.png</Source>
+      <Name>Textures\Ninja\Climb_001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_002.png</Source>
+      <Name>Textures\Ninja\Climb_002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_003.png</Source>
+      <Name>Textures\Ninja\Climb_003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_004.png</Source>
+      <Name>Textures\Ninja\Climb_004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_005.png</Source>
+      <Name>Textures\Ninja\Climb_005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_006.png</Source>
+      <Name>Textures\Ninja\Climb_006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_007.png</Source>
+      <Name>Textures\Ninja\Climb_007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_008.png</Source>
+      <Name>Textures\Ninja\Climb_008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Climb_009.png</Source>
+      <Name>Textures\Ninja\Climb_009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Climb_009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__000.png</Source>
+      <Name>Textures\Ninja\Dead__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__002.png</Source>
+      <Name>Textures\Ninja\Dead__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__003.png</Source>
+      <Name>Textures\Ninja\Dead__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__004.png</Source>
+      <Name>Textures\Ninja\Dead__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__005.png</Source>
+      <Name>Textures\Ninja\Dead__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__006.png</Source>
+      <Name>Textures\Ninja\Dead__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__007.png</Source>
+      <Name>Textures\Ninja\Dead__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__008.png</Source>
+      <Name>Textures\Ninja\Dead__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__009.png</Source>
+      <Name>Textures\Ninja\Dead__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_000.png</Source>
+      <Name>Textures\Ninja\Glide_000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_001.png</Source>
+      <Name>Textures\Ninja\Glide_001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_002.png</Source>
+      <Name>Textures\Ninja\Glide_002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_003.png</Source>
+      <Name>Textures\Ninja\Glide_003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_004.png</Source>
+      <Name>Textures\Ninja\Glide_004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_005.png</Source>
+      <Name>Textures\Ninja\Glide_005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_006.png</Source>
+      <Name>Textures\Ninja\Glide_006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_007.png</Source>
+      <Name>Textures\Ninja\Glide_007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_008.png</Source>
+      <Name>Textures\Ninja\Glide_008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Glide_009.png</Source>
+      <Name>Textures\Ninja\Glide_009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Glide_009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__000.png</Source>
+      <Name>Textures\Ninja\Idle__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__001.png</Source>
+      <Name>Textures\Ninja\Idle__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__002.png</Source>
+      <Name>Textures\Ninja\Idle__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__003.png</Source>
+      <Name>Textures\Ninja\Idle__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__004.png</Source>
+      <Name>Textures\Ninja\Idle__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__005.png</Source>
+      <Name>Textures\Ninja\Idle__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__006.png</Source>
+      <Name>Textures\Ninja\Idle__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__007.png</Source>
+      <Name>Textures\Ninja\Idle__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__008.png</Source>
+      <Name>Textures\Ninja\Idle__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Idle__009.png</Source>
+      <Name>Textures\Ninja\Idle__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Idle__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__000.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__001.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__002.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__003.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__004.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__005.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__006.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__007.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__008.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Attack__009.png</Source>
+      <Name>Textures\Ninja\Jump_Attack__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Attack__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__000.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__001.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__002.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__003.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__004.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__005.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__006.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__007.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__008.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump_Throw__009.png</Source>
+      <Name>Textures\Ninja\Jump_Throw__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump_Throw__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__000.png</Source>
+      <Name>Textures\Ninja\Jump__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__001.png</Source>
+      <Name>Textures\Ninja\Jump__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__002.png</Source>
+      <Name>Textures\Ninja\Jump__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__003.png</Source>
+      <Name>Textures\Ninja\Jump__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__004.png</Source>
+      <Name>Textures\Ninja\Jump__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__005.png</Source>
+      <Name>Textures\Ninja\Jump__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__006.png</Source>
+      <Name>Textures\Ninja\Jump__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__007.png</Source>
+      <Name>Textures\Ninja\Jump__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__008.png</Source>
+      <Name>Textures\Ninja\Jump__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Jump__009.png</Source>
+      <Name>Textures\Ninja\Jump__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Jump__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Kunai.png</Source>
+      <Name>Textures\Ninja\Kunai</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Kunai.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__000.png</Source>
+      <Name>Textures\Ninja\Run__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__001.png</Source>
+      <Name>Textures\Ninja\Run__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__002.png</Source>
+      <Name>Textures\Ninja\Run__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__003.png</Source>
+      <Name>Textures\Ninja\Run__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__004.png</Source>
+      <Name>Textures\Ninja\Run__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__005.png</Source>
+      <Name>Textures\Ninja\Run__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__006.png</Source>
+      <Name>Textures\Ninja\Run__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__007.png</Source>
+      <Name>Textures\Ninja\Run__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__008.png</Source>
+      <Name>Textures\Ninja\Run__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Run__009.png</Source>
+      <Name>Textures\Ninja\Run__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Run__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__000.png</Source>
+      <Name>Textures\Ninja\Slide__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__001.png</Source>
+      <Name>Textures\Ninja\Slide__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__002.png</Source>
+      <Name>Textures\Ninja\Slide__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__003.png</Source>
+      <Name>Textures\Ninja\Slide__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__004.png</Source>
+      <Name>Textures\Ninja\Slide__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__005.png</Source>
+      <Name>Textures\Ninja\Slide__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__006.png</Source>
+      <Name>Textures\Ninja\Slide__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__007.png</Source>
+      <Name>Textures\Ninja\Slide__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__008.png</Source>
+      <Name>Textures\Ninja\Slide__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Slide__009.png</Source>
+      <Name>Textures\Ninja\Slide__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Slide__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__000.png</Source>
+      <Name>Textures\Ninja\Throw__000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__000.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__001.png</Source>
+      <Name>Textures\Ninja\Throw__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__002.png</Source>
+      <Name>Textures\Ninja\Throw__002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__002.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__003.png</Source>
+      <Name>Textures\Ninja\Throw__003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__003.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__004.png</Source>
+      <Name>Textures\Ninja\Throw__004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__004.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__005.png</Source>
+      <Name>Textures\Ninja\Throw__005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__005.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__006.png</Source>
+      <Name>Textures\Ninja\Throw__006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__006.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__007.png</Source>
+      <Name>Textures\Ninja\Throw__007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__007.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__008.png</Source>
+      <Name>Textures\Ninja\Throw__008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__008.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Throw__009.png</Source>
+      <Name>Textures\Ninja\Throw__009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Throw__009.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (10).png</Source>
+      <Name>Textures\Robot\Dead (10)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (10).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (2).png</Source>
+      <Name>Textures\Robot\Dead (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (3).png</Source>
+      <Name>Textures\Robot\Dead (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (4).png</Source>
+      <Name>Textures\Robot\Dead (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (5).png</Source>
+      <Name>Textures\Robot\Dead (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (6).png</Source>
+      <Name>Textures\Robot\Dead (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (6).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (7).png</Source>
+      <Name>Textures\Robot\Dead (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (7).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (8).png</Source>
+      <Name>Textures\Robot\Dead (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (8).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (9).png</Source>
+      <Name>Textures\Robot\Dead (9)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (9).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (1).png</Source>
+      <Name>Textures\Robot\Idle (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (10).png</Source>
+      <Name>Textures\Robot\Idle (10)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (10).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (2).png</Source>
+      <Name>Textures\Robot\Idle (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (3).png</Source>
+      <Name>Textures\Robot\Idle (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (4).png</Source>
+      <Name>Textures\Robot\Idle (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (5).png</Source>
+      <Name>Textures\Robot\Idle (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (6).png</Source>
+      <Name>Textures\Robot\Idle (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (6).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (7).png</Source>
+      <Name>Textures\Robot\Idle (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (7).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (8).png</Source>
+      <Name>Textures\Robot\Idle (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (8).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Idle (9).png</Source>
+      <Name>Textures\Robot\Idle (9)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Idle (9).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (1).png</Source>
+      <Name>Textures\Robot\Jump (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (10).png</Source>
+      <Name>Textures\Robot\Jump (10)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (10).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (2).png</Source>
+      <Name>Textures\Robot\Jump (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (3).png</Source>
+      <Name>Textures\Robot\Jump (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (4).png</Source>
+      <Name>Textures\Robot\Jump (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (5).png</Source>
+      <Name>Textures\Robot\Jump (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (6).png</Source>
+      <Name>Textures\Robot\Jump (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (6).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (7).png</Source>
+      <Name>Textures\Robot\Jump (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (7).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (8).png</Source>
+      <Name>Textures\Robot\Jump (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (8).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Jump (9).png</Source>
+      <Name>Textures\Robot\Jump (9)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Jump (9).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpMelee (1).png</Source>
+      <Name>Textures\Robot\JumpMelee (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpMelee (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpMelee (2).png</Source>
+      <Name>Textures\Robot\JumpMelee (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpMelee (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpMelee (3).png</Source>
+      <Name>Textures\Robot\JumpMelee (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpMelee (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpMelee (4).png</Source>
+      <Name>Textures\Robot\JumpMelee (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpMelee (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpMelee (5).png</Source>
+      <Name>Textures\Robot\JumpMelee (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpMelee (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpMelee (6).png</Source>
+      <Name>Textures\Robot\JumpMelee (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpMelee (6).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpMelee (7).png</Source>
+      <Name>Textures\Robot\JumpMelee (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpMelee (7).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpMelee (8).png</Source>
+      <Name>Textures\Robot\JumpMelee (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpMelee (8).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpShoot (1).png</Source>
+      <Name>Textures\Robot\JumpShoot (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpShoot (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpShoot (2).png</Source>
+      <Name>Textures\Robot\JumpShoot (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpShoot (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpShoot (3).png</Source>
+      <Name>Textures\Robot\JumpShoot (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpShoot (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpShoot (4).png</Source>
+      <Name>Textures\Robot\JumpShoot (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpShoot (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\JumpShoot (5).png</Source>
+      <Name>Textures\Robot\JumpShoot (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\JumpShoot (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Melee (1).png</Source>
+      <Name>Textures\Robot\Melee (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Melee (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Melee (2).png</Source>
+      <Name>Textures\Robot\Melee (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Melee (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Melee (3).png</Source>
+      <Name>Textures\Robot\Melee (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Melee (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Melee (4).png</Source>
+      <Name>Textures\Robot\Melee (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Melee (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Melee (5).png</Source>
+      <Name>Textures\Robot\Melee (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Melee (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Melee (6).png</Source>
+      <Name>Textures\Robot\Melee (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Melee (6).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Melee (7).png</Source>
+      <Name>Textures\Robot\Melee (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Melee (7).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Melee (8).png</Source>
+      <Name>Textures\Robot\Melee (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Melee (8).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Run (1).png</Source>
+      <Name>Textures\Robot\Run (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Run (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Run (2).png</Source>
+      <Name>Textures\Robot\Run (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Run (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Run (3).png</Source>
+      <Name>Textures\Robot\Run (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Run (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Run (4).png</Source>
+      <Name>Textures\Robot\Run (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Run (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Run (5).png</Source>
+      <Name>Textures\Robot\Run (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Run (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Run (6).png</Source>
+      <Name>Textures\Robot\Run (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Run (6).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Run (7).png</Source>
+      <Name>Textures\Robot\Run (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Run (7).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Run (8).png</Source>
+      <Name>Textures\Robot\Run (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Run (8).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (1).png</Source>
+      <Name>Textures\Robot\RunShoot (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (2).png</Source>
+      <Name>Textures\Robot\RunShoot (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (3).png</Source>
+      <Name>Textures\Robot\RunShoot (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (4).png</Source>
+      <Name>Textures\Robot\RunShoot (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (5).png</Source>
+      <Name>Textures\Robot\RunShoot (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (6).png</Source>
+      <Name>Textures\Robot\RunShoot (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (6).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (7).png</Source>
+      <Name>Textures\Robot\RunShoot (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (7).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (8).png</Source>
+      <Name>Textures\Robot\RunShoot (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (8).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\RunShoot (9).png</Source>
+      <Name>Textures\Robot\RunShoot (9)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\RunShoot (9).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Shoot (1).png</Source>
+      <Name>Textures\Robot\Shoot (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Shoot (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Shoot (2).png</Source>
+      <Name>Textures\Robot\Shoot (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Shoot (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Shoot (3).png</Source>
+      <Name>Textures\Robot\Shoot (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Shoot (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Shoot (4).png</Source>
+      <Name>Textures\Robot\Shoot (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Shoot (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (1).png</Source>
+      <Name>Textures\Robot\Slide (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (10).png</Source>
+      <Name>Textures\Robot\Slide (10)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (10).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (2).png</Source>
+      <Name>Textures\Robot\Slide (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (2).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (3).png</Source>
+      <Name>Textures\Robot\Slide (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (3).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (4).png</Source>
+      <Name>Textures\Robot\Slide (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (4).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (5).png</Source>
+      <Name>Textures\Robot\Slide (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (5).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (6).png</Source>
+      <Name>Textures\Robot\Slide (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (6).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (7).png</Source>
+      <Name>Textures\Robot\Slide (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (7).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (8).png</Source>
+      <Name>Textures\Robot\Slide (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (8).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Slide (9).png</Source>
+      <Name>Textures\Robot\Slide (9)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Slide (9).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BackGround1.png</Source>
+      <Name>Textures\BackGround1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\BackGround1.xnb</Output>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wwe_profiles_hero_cena_3.jpg</Source>
+      <Name>Textures\wwe_profiles_hero_cena_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\wwe_profiles_hero_cena_3.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\laser.png</Source>
+      <Name>Textures\Robot\laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\laser.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BackGround2.png</Source>
+      <Name>Textures\BackGround2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\BackGround2.xnb</Output>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Fond_blanc.svg.png</Source>
+      <Name>Textures\Fond_blanc.svg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Fond_blanc.svg.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BackGround3.png</Source>
+      <Name>Textures\BackGround3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\BackGround3.xnb</Output>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BackGround4.png</Source>
+      <Name>Textures\BackGround4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\BackGround4.xnb</Output>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\Dead__001.png</Source>
+      <Name>Textures\Ninja\Dead__001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\Dead__001.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Robot\Dead (1).png</Source>
+      <Name>Textures\Robot\Dead (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Robot\Dead (1).xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ninja\BouclierNinja.png</Source>
+      <Name>Textures\Ninja\BouclierNinja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Ninja\BouclierNinja.xnb</Output>
+      <Time>2017-04-25T21:58:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\vie.png</Source>
+      <Name>Textures\vie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\vie.xnb</Output>
+      <Time>2017-05-01T17:10:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BackGround5.png</Source>
+      <Name>Textures\BackGround5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\BackGround5.xnb</Output>
+      <Time>2017-05-08T13:16:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Black.jpg</Source>
+      <Name>Textures\Black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\Black.xnb</Output>
+      <Time>2017-05-08T13:16:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BackGround6.jpg</Source>
+      <Name>Textures\BackGround6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Textures\BackGround6.xnb</Output>
+      <Time>2017-05-08T13:16:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Songs\Cyborg Ninja.mp3</Source>
+      <Name>Sounds\Songs\Cyborg Ninja</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\Cyborg Ninja.xnb</Output>
+      <Extra>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\Cyborg Ninja.wma</Extra>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Songs\Decisions.mp3</Source>
+      <Name>Sounds\Songs\Decisions</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\Decisions.xnb</Output>
+      <Extra>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\Decisions.wma</Extra>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Songs\Pinball Spring 160.mp3</Source>
+      <Name>Sounds\Songs\Pinball Spring 160</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\Pinball Spring 160.xnb</Output>
+      <Extra>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\Pinball Spring 160.wma</Extra>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Songs\Pixelland.mp3</Source>
+      <Name>Sounds\Songs\Pixelland</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\Pixelland.xnb</Output>
+      <Extra>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\Pixelland.wma</Extra>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Songs\MEME.mp3</Source>
+      <Name>Sounds\Songs\MEME</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\MEME.xnb</Output>
+      <Extra>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\Songs\MEME.wma</Extra>
+      <Time>2017-04-25T21:58:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effets\SpotLight.fx</Source>
+      <Name>Effets\SpotLight</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Effets\SpotLight.xnb</Output>
+      <Time>2017-05-01T17:10:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effets\Julia.fx</Source>
+      <Name>Effets\Julia</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Effets\Julia.xnb</Output>
+      <Time>2017-05-08T13:16:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LP_tree.fbx</Source>
+      <Name>Models\LP_tree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Models\LP_tree.xnb</Output>
+      <Time>2017-05-01T17:10:44-04:00</Time>
+      <Dependency>
+        <Key>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\obj\x86\Debug\Models\LP_tree_0.xml</Key>
+        <Value>2017-06-04T12:23:31.5233172-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\tree.fbx</Source>
+      <Name>Models\tree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Models\tree.xnb</Output>
+      <Time>2017-05-01T17:10:44-04:00</Time>
+      <Dependency>
+        <Key>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\obj\x86\Debug\Models\tree_0.xml</Key>
+        <Value>2017-06-04T12:23:31.5863208-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Sounds\SoundEffects\gameover.wav</Source>
+      <Name>Sounds\SoundEffects\gameover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\SoundEffects\gameover.xnb</Output>
+      <Time>2017-05-08T15:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SoundEffects\punch.wav</Source>
+      <Name>Sounds\SoundEffects\punch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\SoundEffects\punch.xnb</Output>
+      <Time>2017-05-08T15:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SoundEffects\screaminggoat.wav</Source>
+      <Name>Sounds\SoundEffects\screaminggoat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\SoundEffects\screaminggoat.xnb</Output>
+      <Time>2017-05-08T15:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SoundEffects\steelsword.wav</Source>
+      <Name>Sounds\SoundEffects\steelsword</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\SoundEffects\steelsword.xnb</Output>
+      <Time>2017-05-08T15:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SoundEffects\ROBOTATTAQUE.wav</Source>
+      <Name>Sounds\SoundEffects\ROBOTATTAQUE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\SoundEffects\ROBOTATTAQUE.xnb</Output>
+      <Time>2017-05-08T15:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SoundEffects\Arrow.wav</Source>
+      <Name>Sounds\SoundEffects\Arrow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\SoundEffects\Arrow.xnb</Output>
+      <Time>2017-05-08T15:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SoundEffects\LaserBlasts.wav</Source>
+      <Name>Sounds\SoundEffects\LaserBlasts</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\SoundEffects\LaserBlasts.xnb</Output>
+      <Time>2017-05-08T15:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SoundEffects\Run.wav</Source>
+      <Name>Sounds\SoundEffects\Run</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\Sounds\SoundEffects\Run.xnb</Output>
+      <Time>2017-05-14T17:22:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LP_tree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\obj\x86\Debug\Models\LP_tree_0.xml</Output>
+      <Time>2017-05-01T17:10:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\obj\x86\Debug\Models\tree_0.xml</Output>
+      <Time>2017-05-01T17:10:44-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9489CD8C-4559-45D1-B200-3BB5291DE997}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14Content\</RootDirectory>
+      <LoggerRootDirectory>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\</LoggerRootDirectory>
+      <IntermediateDirectory>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>A:\Études fichiers\PISIM2017\Projet\Projet\Atelier 14\Atelier 14\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-24T20:15:22.2104868-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
